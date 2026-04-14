@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Persona Finder</title>
+    <link rel="icon" type="image/jpg" sizes="16x16" href="img/logo.jpg">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <main class="container">
+
+        <section class="card">
+            <div class="header-persona">
+                <div class="icon-magic">
+                    <i class="fas fa-magic"></i>
+                </div>
+                <h2>Digital Persona Finder</h2>
+                <p>Temukan karakter unikmu hari ini!</p>
+            </div>
+
+            <form id="persona-form">
+                <div class="form-group">
+                    <label for="nama">Nama Kamu</label>
+                    <input type="text" id="nama" class="form-control" required placeholder="Cth: Budi">
+                </div>
+                <div class="form-group">
+                    <label for="hobi">Hobi Utama</label>
+                    <input type="text" id="hobi" class="form-control" required placeholder="Cth: Membaca, Coding, Rebahan">
+                </div>
+                <div class="form-group">
+                    <label for="angka">Angka Keberuntungan (1-10)</label>
+                    <input type="number" id="angka" class="form-control" required min="1" max="10" placeholder="Cth: 7">
+                </div>
+                <button type="submit" class="btn-submit">
+                    <span>Temukan Persona</span>
+                    <i class="fas fa-sparkles"></i>
+                </button>
+            </form>
+
+            <div id="result-container">
+                <p class="result-subtitle">Hasil Persona Kamu</p>
+                <h3 id="result-title" class="result-title"></h3>
+                <p id="result-desc" class="result-desc"></p>
+            </div>
+        </section>
+        
+         <div class="exit-container">
+            <a href="index.html" class="exit-btn">
+                <i class="fas fa-sign-out-alt"></i>
+                <span>Keluar</span>
+            </a>
+        </div>
+
+    </main>
+
+    <!-- JS -->
+    <script src="script.js"></script>
+</body>
+</html>
