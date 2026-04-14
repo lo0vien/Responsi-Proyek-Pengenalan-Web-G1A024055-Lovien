@@ -63,4 +63,4 @@ Halaman profil pribadi yang berisi:
 ---
 
 Terima kasih telah mengunjungi project ini!
-Semoga website ini dapat menjadi inspirasi dalam belajar pengembangan web 💗
+Semoga website ini dapat bermanfaat
