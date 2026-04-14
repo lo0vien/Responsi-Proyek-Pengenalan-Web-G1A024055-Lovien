@@ -42,8 +42,8 @@ Halaman profil pribadi yang berisi:
 ├── styles.css       
 ├── script.js     
 ├── img/
-│   ├── logo.jpg      
-│   └── Lovien.jpeg   
+  ├── logo.jpg      
+  └── Lovien.jpeg   
 
 ---
 ## Teknologi yang Digunakan
@@ -57,7 +57,7 @@ Halaman profil pribadi yang berisi:
 
 ## Tujuan Pembuatan
 
-* Menerapkan konsep dasar pengembangan web
+* Tugas responsi Mata Kuliah Proyek P.Web
 * Menggabungkan HTML, CSS, dan JavaScript dalam satu proyek
 * Membuat tampilan UI yang menarik dan interaktif
 * Sebagai media personal branding digital
