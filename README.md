@@ -1,8 +1,6 @@
 # Linktree & Website Digital Persona Finder
 
-Halo! Saya Lovien Najla Dhafiyah, mahasiswi Universitas Bengkulu Program Studi Informatika** Angkatan 2024 dengan NPM G1A024055.
-
-Website ini dibuat sebagai bagian dari Responsi mata kuliah Proyek Pemrograman Web.
+Halo! Saya Lovien Najla Dhafiyah, mahasiswi Universitas Bengkulu Program Studi Informatika Angkatan 2024 dengan NPM G1A024055. Website ini dibuat sebagai bagian dari Responsi mata kuliah Proyek Pemrograman Web.
 
 ---
 
